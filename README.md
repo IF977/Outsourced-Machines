@@ -1,7 +1,7 @@
 # Outsourced-Machines
 
 Integrantes:
-Mike Rodrigues da Silva(mrs4) - Desenvolvedor / Líder
+Mike Rodrigues da Silva(mrs4) - Desenvolvedor/Líder
 Gerson Ferreira Braga(gfb) -    Desenvolvedor
 
 Justificativa:
